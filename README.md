@@ -1,22 +1,19 @@
 <div align="center">
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/02d06698-5f8a-41dd-8d8f-1e50a4f45f82" style="border-radius: 20px" width="20%" height="20%">
+  <img src="https://github.com/user-attachments/assets/32fcc497-4078-4771-ab9f-d0b5d8ad03dc" style="border-radius: 20px" width="20%" height="20%">
 </p>
-  
-<h1> BuildNow GG [discontinued project] </h1>
+<h1> BuildNowReloaded </h1>
 <h4> This is a shitty optimization of a knock off fort building game hosted on github for speed and reliablility.</h4>
 </div>
-
-- [X] Outdated and absorbed by CrazyGames
 
 # Todo...
 - [ ] Better console log
 - [ ] Optimize File Loading
-- [x] Remake Loader frontend
-  - [x] RosieUI
-  - [x] FontAwesome
-- [ ] Learn the BuildNow Framework
-- [ ] Deobfsucate the GameLoader and GameLoader Helper
+- [ ] Remake Loader frontend
+  - [ ] RosieUI
+  - [ ] FontAwesome
+- [ ] Learn the new BuildNow Framework
+- [ ] Deobfsucate the new GameLoader and new GameLoader Helper
 - [ ] Webasmblly cheetos / features
 - [ ] Websocket interpretor.
 
